@@ -1,0 +1,113 @@
+body {
+  background-color: #FFFFFF;
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  font-family: Georgia;
+}
+
+img {
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  padding: 40px;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+inButtons {
+  width: 24%;
+  height: 30px
+}
+
+.Heading {
+  background-color: #05237C;
+  color:#CCC9CC;
+  border: solid;
+  text-align: center;
+}
+
+.CenterText {
+  text-align: center;
+}
+
+.Center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.NewWord {
+  padding-left: 20px;
+}
+
+#Title {
+  background-color: #CCC9CC;
+  color:#777577;
+  border: solid;
+}
+
+#TitleText {
+  margin:0;
+  text-shadow:2px 2px 5px black;
+  color:#777577;
+  font-size:40pt;
+}
+
+#NavBar {
+  text-align: center;
+  padding: 10px;
+  border: solid;
+  border-color: #585758;
+  background-color: #CCC9CC;
+}
+
+#NavInput {
+  width: 100px;
+  text-align: center;
+}
+
+#Intro {
+  background-color: #998484;
+  color: white;
+  border: 10px double;
+  border-color: #585758;
+}
+
+#ButtonSection {
+  background-color: #390941;
+  color: white;
+  border: 10px double;
+  border-color: blue;
+}
+
+#ButtonGame {
+  background-color: darkcyan;
+  color: white;
+  border: 10px dotted;
+  border-color: blue;
+}
+
+#TextBoxDropDownSection {
+  background-color: #561A15;
+  color: white;
+  border: 10px double;
+  border-color: #FFC107;
+}
+
+#MoreSection {
+  background-color: #C87C0B;
+  color: white;
+  border: 10px dashed;
+  border-color: #9C27B0;
+}
+
