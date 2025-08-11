@@ -1,4 +1,4 @@
-# ART151-Project1
+# ART151-project-1
 Project 1 - Hypertext Fansite
 
 This is the completed project files for ART151 Spring 2024's Project1. The project was create using p5js.org.
